@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calcular Figuras</string>
+    <string name="cuadro">Cuadrado</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="circulo">Círculo</string>
+    <string name="titulo">Calculadora Figuras Geométricas</string>
+    <string name="nombre">Valor del Lado</string>
+    <string name="base">Valor de la Base</string>
+    <string name="radio">Radio del Círculo</string>
+    <string name="lado">Valor del Lado</string>
+    <string name="calcular">Calcular</string>
+</resources>
